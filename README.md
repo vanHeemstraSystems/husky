@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+husky
+# Husky
 
-Based on "ABC" at https://www.abc.com/
+Based on "Husky" at https://typicode.github.io/husky/
 
 ## 100 - Introduction
 
