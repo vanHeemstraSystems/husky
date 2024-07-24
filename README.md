@@ -1,6 +1,8 @@
 husky
 # Husky
 
+> Automatically lint your commit messages, code, and run tests upon committing or pushing.
+
 Based on "Husky" at https://typicode.github.io/husky/
 
 ## 100 - Introduction
